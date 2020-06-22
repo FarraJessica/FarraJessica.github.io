@@ -17,6 +17,8 @@ Pada pengerjaan tugas besar proyek 1 ini, saya bertugas untuk :
 4. Memodifikasi dengan merancang kembali halaman about
 5. Menambahkan informasi pada fitur pop up berupa tahun rilis film
 6. Menyelaraskan estetika setiap halaman dalam website
+7. Menganalisa pembuatan video untuk demo website
+8. Melengkapi isi file README.MD dengan menambahkan informasi penempatan file dalam repository yang ada di github milik kelompok
 
 ## Kesan
 - Dalam pengerjaan tugas besar ini memang banyak sekali proses yang telah saya lalui dengan kelompok saya. Suka maupun duka pun sering menjadi warna penghias proses yang kami lalui. Kelompok yang diberi nama "Fantastic Five" ini terdiri dari 5 orang dengan sifat dan watak yang berbeda-beda. Ketika kami berdiskusi, perbedaan pendapat,ide, maupun gagasan pasti selalu ada. Namun, banyaknya ide, pendapat, dan gagasan tersebut ketika disatukan untuk diambil jalan tengah yang terbaik ternyata menghasilkan sesuatu yang menarik dan lebih baik. Kami memang saling memiliki kekurangan, tetapi kekurangan itulah yang mempersatukan kami untuk saling mengisi kekurangan satu sama lain menjadi sebuah kelebihan. 
